@@ -21,7 +21,7 @@ There are two primary ways to run this tagger.
 
 ### 1. Google Colab (Recommended)
 
-The easiest way to get started. No installation required and no need to g!
+The easiest way to get started. No installation required. Simple and streamlined for newcomers.
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/gist/litsa-the-dancer/bbb64508867cb136a1b64a570ac44a28/e621tagger.ipynb)
 
